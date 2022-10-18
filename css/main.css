@@ -273,8 +273,8 @@ h1 {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #B2BABB;
-  color: #151515;
+  background: #292929;
+  color: white;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
 }
